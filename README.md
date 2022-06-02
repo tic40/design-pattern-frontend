@@ -1,4 +1,4 @@
-# design-patter-frontend
+# design-pattern-frontend
 
 ## exec
 
