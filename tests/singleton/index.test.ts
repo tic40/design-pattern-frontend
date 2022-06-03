@@ -1,4 +1,4 @@
-import Counter from '../../singleton/singletonCounter'
+import Counter from '../../src/singleton/singletonCounter'
 
 test('incrementing 1 time should be 1', () => {
   Counter.increment()
