@@ -1,6 +1,6 @@
 import { myProxy } from '../../src/proxy/proxy'
 
-test('incrementing 1 time should be 1', () => {
+test('call person name and update age.', () => {
   console.log = jest.fn()
   const person = {
     name: 'John Doe',
