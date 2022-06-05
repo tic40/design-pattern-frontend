@@ -26,5 +26,4 @@ class Counter {
   }
 }
 
-const singletonCounter = new Counter()
-export default singletonCounter
+export const singletonCounter = new Counter()

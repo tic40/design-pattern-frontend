@@ -1,4 +1,4 @@
-import { SuperDog } from '../../src/prototype/superDog'
+import { SuperDog } from '../src/prototype/superDog'
 
 test('super dog bark and fly.', () => {
   console.log = jest.fn()

@@ -1,4 +1,4 @@
-import { myProxy } from '../../src/proxy/proxy'
+import { myProxy } from '../src/proxy/proxy'
 
 test('call person name and update age.', () => {
   console.log = jest.fn()
