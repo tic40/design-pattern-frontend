@@ -1,7 +1,6 @@
 {
   "name": "design-pattern-frontend",
   "version": "1.0.0",
-  "main": "index.js",
   "repository": "git@github.com:tic40/design-pattern-frontend.git",
   "author": "tic40 <ccpzjoh@gmail.com>",
   "license": "MIT",
